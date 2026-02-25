@@ -1,0 +1,19 @@
+# --- Virtual environment ---
+algo/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- macOS ---
+.DS_Store
+
+# --- VS Code ---
+.vscode/
